@@ -1,0 +1,10 @@
+spring:
+data:
+mongodb:
+  password: 1660
+  uri: mongodb://localhost:27017/Hibernate1
+  username: mongodb
+  redis:
+    port: 6379
+    database: 0
+    host: localhost
